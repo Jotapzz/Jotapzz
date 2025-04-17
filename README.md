@@ -1,48 +1,26 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+## Sobre Mim
 
-###
+Olá! 👋  
+Me chamo João Pedro, mas pode me chamar de Jotap. Tenho 18 anos e sou apaixonado por tecnologia e desenvolvimento back‑end. Entrei nesse universo aos 14, quando tive a sorte de aprender lógica de programação com um professor incrível, que despertou em mim a curiosidade e a disciplina necessárias para seguir em frente.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jotapzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jotapzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Alguns meses depois de dominar os conceitos de lógica, mergulhei de cabeça em Java, onde me encanto com a robustez e a versatilidade dessa linguagem. Hoje, estudo Java diariamente para criar APIs e serviços escaláveis, e também me dedico ao Python no meu curso, explorando automação e análise de dados.
 
-###
+Aqui no meu GitHub você vai encontrar projetos que refletem minha jornada de aprendizado, meus desafios e as soluções que desenvolvi ao longo do caminho. Seja bem‑vindo ao meu espaço — espero que meus códigos inspirem você tanto quanto meus professores me inspiraram! 🚀\*\*\*\*
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+## minha habilidade
 
-###
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
 
-<div align="left">
-  <a href="https://www.instagram.com/jotap_pxx/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## Status do GitHub
 
-###
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Jotapzz&theme=dark&show_icons=true&count_private=true">
 
-<br clear="both">
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Jotapzz&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Jotapzz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/1f/d7/8e/1fd78e28449345cb772e60eb101b66b2.gif"  />
-</div>
+## Conecte‑se comigo
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Jotapzz/Jotapzz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/Jotapzz/Jotapzz/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Pedro</a> Email: joaopedrodeveloper@outlook.com</p>

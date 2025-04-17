@@ -1,4 +1,4 @@
-<h2 align="left">Opa 👋! Prazer me chamo Jotap</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -29,11 +29,19 @@
 
 ###
 
-<img align="right" height="151" src="https://i.pinimg.com/originals/1f/d7/8e/1fd78e28449345cb772e60eb101b66b2.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/1f/d7/8e/1fd78e28449345cb772e60eb101b66b2.gif"  />
+</div>
 
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/Jotapzz/Jotapzz/output/snake.svg" alt="Snake animation" />
+
+###
 
 <img src="https://raw.githubusercontent.com/Jotapzz/Jotapzz/output/snake.svg" alt="Snake animation" />
 

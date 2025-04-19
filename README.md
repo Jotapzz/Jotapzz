@@ -24,3 +24,4 @@ Aqui no meu GitHub você vai encontrar projetos que refletem minha jornada de ap
 ## Conecte‑se comigo
 
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Pedro</a> Email: joaopedrodeveloper@outlook.com</p>
+

@@ -1,6 +1,6 @@
 <h1 align="center">Opa, eu sou o João Pedro</h1>
 <div align="center">
-<p>Olá! 👋 Me chamo João Pedro, mas pode me chamar de Jotap. Tenho 18 anos e sou apaixonado por tecnologia e desenvolvimento back‑end. Entrei nesse universo aos 14, quando tive um tipo de aprendizado lógica de programação com um professor incrível, que despertou em mim a curiosidade e a disciplina permitida para seguir em frente.</p>
+<p>Olá! 👋 Me chamo João Pedro, mas pode me chamar de Jotap. Tenho 16 anos e sou apaixonado por tecnologia e desenvolvimento back‑end. Entrei nesse universo aos 14, quando tive um tipo de aprendizado lógica de programação com um professor incrível, que despertou em mim a curiosidade e a disciplina permitida para seguir em frente.</p>
 
 <p>Alguns meses depois de dominar os conceitos de lógica, mergulhei de cabeça em Java, onde me encanto com a robustez e as novidades dessa linguagem. Hoje, estudo Java diariamente para criar APIs e serviços escaláveis, e também me dedico ao Python no meu curso, explorando automação e análise de dados.</p>
 

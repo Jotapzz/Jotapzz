@@ -4,7 +4,7 @@
 
 <p>Alguns meses depois de dominar os conceitos de lógica, mergulhei de cabeça em Java, onde me encanto com a robustez e as novidades dessa linguagem. Hoje, estudo Java diariamente para criar APIs e serviços escaláveis, e também me dedico ao Python no meu curso, explorando automação e análise de dados.</p>
 
-<p>Aqui no meu GitHub você vai encontrar projetos que refletem minha jornada de aprendizado, meus desafios e as soluções que desenvolvi ao longo do caminho. Seja bem-vindo ao meu espaço — espero que meus códigos inspirem você tanto quanto meus professores me inspirem! 🚀****</p>
+<p>Aqui no meu GitHub você vai encontrar projetos que refletem minha jornada de aprendizado, meus desafios e as soluções que desenvolvi ao longo do caminho. Seja bem-vindo ao meu espaço — espero que meus códigos inspirem você tanto quanto meus professores me inspirem! 🚀</p>
 </div>
 <h2 align="center">🛠 Tech Stack</h2>
 <div align="center">

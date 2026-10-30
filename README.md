@@ -9,7 +9,7 @@
 <h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/C%23-%23512BD4.svg?logo=csharp&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">&nbsp;</div>
 <h2 align="center">🛠 My Stats</h2>
 <div align="center">

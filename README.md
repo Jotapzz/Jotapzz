@@ -15,4 +15,4 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotapzz&layout=compact&theme=dark" alt="Top Languages Card"></div>
 <h2 align="center">📫 Connect with me</h2>
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">João Pedro</a></p>
+<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/joão-pedro-da-silva-aa1458387" target="_blank">João Pedro</a></p>
